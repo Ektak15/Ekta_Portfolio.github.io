@@ -1,0 +1,76 @@
+/*Import Google fonts*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  a.nav-link
+ {
+
+    color:black;
+    font-weight: 500;
+    font-size: 1rem;
+  }
+
+  a.nav-link:hover {
+    color:black  ;
+ border-bottom: 4px solid black;
+
+  }
+
+
+  
+.fixed{
+  position:sticky;
+  top:0;
+}
+.navbar{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  background-color: white;
+}
+/*Main section*/
+.main h3,h2{
+  font-size: 4.4rem;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+.main h6{
+  font-size: 1.4rem;
+  line-height: 1;
+  border-bottom: 3px solid white;
+  width: 225px;
+}
+#T1{
+  margin-top: 100px;
+  margin-left: 50px;
+  
+}
+#social{
+  margin-left: 50px;
+}
+/*About*/
+.about,.skills{
+  font-family: 'Poppins', sans-serif;
+}
+#main{
+  padding-top: 50px;
+}
+
+.contact
+  {
+  
+    color:black;
+    font-family: 'Poppins', sans-serif
+  }
+  
+ .container5{
+    
+  margin-left:250px;
+ }
+ .container4{
+    
+    margin-left:90px;
+   }
